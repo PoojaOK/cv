@@ -1,0 +1,38 @@
+
+body {
+  text-align: center;
+
+  background-color: #cff1ef;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+h1 {
+  font-family: 'Cedarville Cursive', cursive;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  font-size: 450.5%;
+}
+
+.top-container {
+  text-align: center;
+  height: 300px;
+  background-image: url("mountain.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+
+.middle-container {
+margin-top: 320px;
+
+}
+
+.bottom-container {
+
+
+}
